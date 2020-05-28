@@ -8,4 +8,5 @@ processing to real-time data serving). Despite these varied demands, Bigtable
 has successfully provided a flexible, high-performance solution for all of these
 Google products. In this paper we describe the simple data model provided by
 Bigtable, which gives clients dynamic control over data layout and format, and
-we describe the design and implementation of Bigtable.
+we describe the design and implementation of Bigtable
+modification.
