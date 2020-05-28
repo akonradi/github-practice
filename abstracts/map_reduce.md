@@ -18,3 +18,4 @@ and is highly scalable: a typical MapReduce computation processes many terabytes
 of data on thousands of machines. Programmers find the system easy to use:
 hundreds of MapReduce programs have been implemented and upwards of one thousand
 MapReduce jobs are executed on Google's clusters every day.
+la~la~la~
