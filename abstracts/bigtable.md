@@ -1,3 +1,4 @@
+# Bigtable
 Bigtable is a distributed storage system for managing
 structured data that is designed to scale to a very
 large size: petabytes of data across thousands of
@@ -16,3 +17,4 @@ and implementation of Bigtable.
 
 updated by Rainton
 
+Read the full paper at https://research.google/pubs/pub27898/

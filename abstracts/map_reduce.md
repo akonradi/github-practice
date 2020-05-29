@@ -18,6 +18,14 @@ communication. This allows programmers without any
 experience with parallel and distributed systems to easily
 utilize the resources of a large distributed system.
 
+
+Our implementation of MapReduce runs on a large cluster of commodity machines
+and is highly scalable: a typical MapReduce computation processes many terabytes
+of data on thousands of machines. Programmers find the system easy to use:
+hundreds of MapReduce programs have been implemented and upwards of one thousand
+MapReduce jobs are executed on Google's clusters every day.
+la~la~la~
+
 Our implementation of MapReduce runs on a large cluster
 of commodity machines and is highly scalable: a typical
 MapReduce computation processes many terabytes of data on
@@ -25,3 +33,4 @@ thousands of machines. Programmers find the system easy to
 use: hundreds of MapReduce programs have been implemented
 and upwards of one thousand MapReduce jobs are executed
 on Google's clusters every day.
+
