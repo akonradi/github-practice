@@ -72,6 +72,11 @@ nothing to commit, working tree clean
 
 By convention, the default branch that is created in a new repository is called "master", and "origin/master" refers to "where this repository thinks the `master` brach on the remote called `origin` is".
 
+In order to make this code lab repeatable, you'll need to adjust your repository to point at different commit than the current master (otherwise some of the steps below won't make sense):
+```
+git reset --hard bfe4b9471d7af47466c1af849e13ef3d993582f1
+```
+
 For development, you'll typically want to create a new branch for each feature. To create a new branch, you can use `git switch -c` (which you'll often see as`git checkout -b`, but that's an older style). Do this now:
 ```
 git switch -c feature-branch
